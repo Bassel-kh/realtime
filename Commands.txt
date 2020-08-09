@@ -9,4 +9,7 @@ composer create-project laravel/laravel realtime
             php artisan ui vue --auth
             php artisan ui react --auth
     }
-4-
+4- npm install && npm run dev
+
+#############################################
+#m001 ارسال اشعارات الزمن الحقيقي ب لارافل بسوكت سرفر بوشر laravel reatime notification with pusher
