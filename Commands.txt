@@ -1,0 +1,12 @@
+composer create-project laravel/laravel realtime
+#############################################################
+1- composer require laravel/ui
+2- npm install & npm run dev
+3- php artisan ui bootstrap --auth
+    Note: {
+    // Generate login / registration scaffolding...
+            php artisan ui bootstrap --auth
+            php artisan ui vue --auth
+            php artisan ui react --auth
+    }
+4-
