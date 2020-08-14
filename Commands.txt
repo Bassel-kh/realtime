@@ -15,9 +15,14 @@ composer create-project laravel/laravel realtime
 #m001 ارسال اشعارات الزمن الحقيقي ب لارافل بسوكت سرفر بوشر laravel reatime notification with pusher
 #############################################
 https://dashboard.pusher.com/
-#m002 ارسال واستقبال اشعارات الزمن الحقيقي ب لارافل و سوكت سرفر- laravel notification puhser (part 1)
-    - php artisan migrate
-    لإضافة جرس الأشعارات
-    - add from ( https://www.bootstrapcdn.com/fontawesome/ )
-        https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css ( add to layout/app in header )
-
+#3
+    #m002 ارسال واستقبال اشعارات الزمن الحقيقي ب لارافل و سوكت سرفر- laravel notification puhser (part 1)
+        - php artisan migrate
+        لإضافة جرس الأشعارات
+        - add from ( https://www.bootstrapcdn.com/fontawesome/ )
+            https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css ( add to layout/app in header )
+------------
+#4
+    #m002 ارسال واستقبال اشعارات الزمن الحقيقي ب لارافل و سوكت سرفر- laravel notification puhser (part 1)
+        - php artisan make:model Models\Post
+        - php artisan make:model Models\Comment
